@@ -44,7 +44,7 @@ if src /==0 then
 /* let's try to write something */
 out.0=1                                                  
 out.1='hello world'                                             
-'EXECIO * DISKW SDMSOUT (STEM OUT. OPEN FINIS'           
+'EXECIO * DISKW FILEOUT (STEM OUT. OPEN FINIS'           
 say rc                                                   
 'free all'                                               
 EXIT                                                     
