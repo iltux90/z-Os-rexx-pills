@@ -13,7 +13,7 @@ end
 /* GDG base not found, creating one */
 if pos('NOT FOUND',lc.1) > 0 then do                       
    address tso "DEFINE GDG(NAME('"filename"') LIM(5) SCR)" 
-   say 'creazione gdg:' rc                                 
+   say 'gdg creation:' rc                                 
 end                                                        
 curr_gen=''                                                
 /* reading the outtrap result from the end, searching for the last version */
