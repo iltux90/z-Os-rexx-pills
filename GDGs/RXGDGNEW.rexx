@@ -32,7 +32,7 @@ do i=lc.0 to 1 by -1
    end                                                   
 end                                                      
 say curr_gen                                             
-/* if no version was found we force the creation of the version 1(example only GDG base was defined)
+/* if no version was found we force the creation of the version 1(example only GDG base was defined) */
 if curr_gen='' then do                                   
    curr_gen=filename'.G0001V00'                          
 end                                                      
