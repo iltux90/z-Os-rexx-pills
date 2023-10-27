@@ -5,7 +5,7 @@
 trace n
 say '****************************************************'
 say '* Welcome to this REXX tips and tricks repository! *'
-say '*                     Enjoy!'                      *'
+say '*                     Enjoy!                       *'
 say '****************************************************'
 exit 0
 ``` 
