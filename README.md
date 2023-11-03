@@ -15,4 +15,4 @@ I would simplify the life for other mainframers that are trying to understand ab
 
 ## Topics
 - [Using GDGs in a TSO REXX script](/GDGs/)
-- Using SKELETONS :construction:
+- [Using SKELETONS](/ISPF%20Skeletons/) :construction:
