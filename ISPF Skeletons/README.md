@@ -9,4 +9,4 @@ Every skeleton keyword begin with ) and every variable with &
 - )DOT <isptablename> : used to write an ISPF Table into a section of the output file. Must be closed with )ENDDOT
 - )BLANK : insert a blank line to the output file
 ## How to use a skeleton
-Before starting to use a skeleton my advice is to define a dedicated library, hust to keep objects separated. This library needs to be declared before using file tailoring services that are needed to perform the creation of the output file.
+Before starting to use a skeleton my advice is to define a dedicated library, just to keep objects separated. This library needs to be declared before using file tailoring services that are needed to perform the creation of the output file.  
