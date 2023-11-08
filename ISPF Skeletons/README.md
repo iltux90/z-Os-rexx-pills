@@ -10,3 +10,5 @@ Every skeleton keyword begin with ) and every variable with &
 - )BLANK : insert a blank line to the output file
 ## How to use a skeleton
 Before starting to use a skeleton my advice is to define a dedicated library, just to keep objects separated. This library needs to be declared before using file tailoring services that are needed to perform the creation of the output file.  
+For this example we will use a job head skeleton that will be imported in the main skeleton that will perform a file copy operation from a file which name will be asked to the user using pull.  
+We will import [JOBCARD](JOBCARD.skel) into [SKSAMPLE](SKSAMPLE.skel), give the values to the variables defined in the skeleton, invoke the file tailoring services and then display the copied file.  
