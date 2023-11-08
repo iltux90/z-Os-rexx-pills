@@ -1,0 +1,13 @@
+)CM Example of a skeleton
+)CM Importing JOBCARD skeleton
+)IM JOBCARD
+//**********************************************************************
+//** Skeleton example doing a file-copy operation                     **
+//** File name will be pulled from user                               **
+)CM For educational purpose we will print the user that ran the REXX
+)CM and some other data passed through variables
+//** Userid : &runuser                                                **
+//**   Date : &currdate                                               **
+//**   Time : &currtime                                               **
+//**   LPAR : &lpar                                                   **
+//**********************************************************************
