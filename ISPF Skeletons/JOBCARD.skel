@@ -1,5 +1,0 @@
-)DEFAULT )ì?é<!>                    
-//&SYSUIDA JOB (US1200),            
-//         MSGLEVEL=(1,1),REGION=0M,
-//         MSGCLASS=X,              
-//         CLASS=A,NOTIFY=&SYSUID   
