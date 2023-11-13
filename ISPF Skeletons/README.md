@@ -14,5 +14,5 @@ For this example we will use a job head skeleton that will be imported in the ma
 We will import [JOBCARD](JOBCARD) into [SKSAMPLE](SKSAMPLE), give the values to the variables defined in the skeleton, invoke the file tailoring services and then display the copied file.  
 Doing this is simple: just use the )IM <skeleton_name> and it's done!  
 ```
-)IM JOBBARD
+)IM JOBCARD
 ```
